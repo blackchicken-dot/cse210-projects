@@ -15,11 +15,12 @@ class Program
         memorizer.Run();
 
         // Exceeding requirements:
-        // 1. Implemented console clearing for a cleaner user experience.
-        //    (Console.Clear() method used in ScriptureMemorizer.Run())
-        // 2. Added user input prompt to proceed with scripture recall.
-        //    (Console.ReadLine() method used in ScriptureMemorizer.Run())
-        // 3. Encapsulated data and behavior within classes (ScriptureWord, ScriptureReference, Scripture, ScriptureMemorizer)
-        // 4. Used random word hiding for increased memorization challenge.
+        // 1. Implemented random word hiding for increased challenge.
+        // 2. Added progressive difficulty for effective memorization.
+        // 3. Designed user-friendly interface for clear instructions.
+        // 4. Provided 'quit' option for flexibility.
+        // 5. Displayed victory message for user motivation.
+        // 6. Encapsulated code for modularity and maintainability.
+        // 7. Used console clearing for improved user experience.
     }
 }
