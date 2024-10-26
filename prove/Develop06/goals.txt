@@ -1,0 +1,5 @@
+950
+SimpleGoal|To bear a testimony|To speak in sacrament meeting when asked|100|True
+EternalGoal|Study the scriptures|Study for atleast 10 minutes|50
+ChecklistGoal|Attend the temple|Attend and perform any ordinance|650|3|3|600
+ChecklistGoal|Study for my assignment early|Wake up atleast 6 AM|10|0|10|1000
